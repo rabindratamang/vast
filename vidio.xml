@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VAST version="3.0">
+    <Ad id="859861-1" sequence="1">
+        <InLine>
+            <AdSystem>SpringServe</AdSystem>
+            <AdTitle>WinView_Football_September_HIGH-RES__Final_</AdTitle>
+            <Impression id="SpringServe_Impression_1"><![CDATA[https://vid-io-dub.springserve.com/vd/i?event=vast_impression&d=kxly.com&size=1920x1080&id=629216&a_cc=rs.2407-fps.628306-s.629216-ap.8041-d.859861&cc=US&cb=553e20bd-8a10-4385-906d-3ba2032c5c93&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&timestamp=1611079064772&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&uuid=553e20bd-8a10-4385-906d-3ba2032c5c93&ip=66.211.197.79&_rcc=en.13562_bs.13597&aid=1100&hc=-750207998&_pi=1&_apssf=30&_j=]]></Impression>
+            <Creatives>
+                <Creative id="90879">
+                    <Linear>
+                        <Duration>00:00:30</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://vid-io-dub.springserve.com/vd/i?event=js_start&dtid=859861&a_cc=rs.2407-fps.628306-s.629216-ap.8041-d.859861&cb=1611079064772&id=629216&aid=1&d=kxly.com&w=1920&h=1080&cc=US&uuid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03&pp=&ol=0&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&uuid=553e20bd-8a10-4385-906d-3ba2032c5c93&ip=66.211.197.79&_rcc=en.13562_bs.13597&_pi=1&_j=]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[https://vid-io-dub.springserve.com/vd/i?event=js_first_quartile&dtid=859861&a_cc=rs.2407-fps.628306-s.629216-ap.8041-d.859861&cb=1611079064772&id=629216&aid=1&d=kxly.com&w=1920&h=1080&cc=US&uuid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03&pp=&ol=0&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&uuid=553e20bd-8a10-4385-906d-3ba2032c5c93&ip=66.211.197.79&_rcc=en.13562_bs.13597&_pi=1&_j=]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[https://vid-io-dub.springserve.com/vd/i?event=js_midpoint&dtid=859861&a_cc=rs.2407-fps.628306-s.629216-ap.8041-d.859861&cb=1611079064772&id=629216&aid=1&d=kxly.com&w=1920&h=1080&cc=US&uuid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03&pp=&ol=0&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&uuid=553e20bd-8a10-4385-906d-3ba2032c5c93&ip=66.211.197.79&_rcc=en.13562_bs.13597&_pi=1&_j=]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[https://vid-io-dub.springserve.com/vd/i?event=js_third_quartile&dtid=859861&a_cc=rs.2407-fps.628306-s.629216-ap.8041-d.859861&cb=1611079064772&id=629216&aid=1&d=kxly.com&w=1920&h=1080&cc=US&uuid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03&pp=&ol=0&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&uuid=553e20bd-8a10-4385-906d-3ba2032c5c93&ip=66.211.197.79&_rcc=en.13562_bs.13597&_pi=1&_j=]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://vid-io-dub.springserve.com/vd/i?event=js_complete&dtid=859861&a_cc=rs.2407-fps.628306-s.629216-ap.8041-d.859861&cb=1611079064772&id=629216&aid=1&d=kxly.com&w=1920&h=1080&cc=US&uuid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03&pp=&ol=0&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&uuid=553e20bd-8a10-4385-906d-3ba2032c5c93&ip=66.211.197.79&_rcc=en.13562_bs.13597&_pi=1&_j=]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://vid-io-dub.springserve.com/vd/i?event=js_click&dtid=859861&a_cc=rs.2407-fps.628306-s.629216-ap.8041-d.859861&cb=1611079064772&id=629216&aid=1&d=kxly.com&w=1920&h=1080&cc=US&uuid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03&pp=&ol=0&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&uuid=553e20bd-8a10-4385-906d-3ba2032c5c93&ip=66.211.197.79&_rcc=en.13562_bs.13597&_pi=1&_j=&redirect=http%3A%2F%2Fpredictsports.tv%2F]]></ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile bitrate="36036" delivery="progressive" height="1080" type="video/mp4" width="1920"><![CDATA[https://assets.springserve.com/video_creatives/000/090/879/WinView_Football_September_HIGH-RES__Final_.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="springserve">
+                    <SpringServeCreativeId>-750207998</SpringServeCreativeId>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
