@@ -21,6 +21,7 @@
             <VideoClicks>
               <ClickThrough>http://www.jwplayer.com/</ClickThrough>
               <ClickTracking>http://example.com/pixel.gif?r=[REGULATIONS]&gdpr=[GDPRCONSENT]&pu=[PAGEURL]&da=[DEVICEUA]</ClickTracking>
+              <ClickTracking>http://example.coms/pixel.gif?r=[REGULATIONS]&gdpr=[GDPRCONSENT]&pu=[PAGEURL]&da=[DEVICEUA]</ClickTracking>
             </VideoClicks>
             <MediaFiles>
               <MediaFile type="video/mp4" bitrate="300" width="480" height="270">
