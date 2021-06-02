@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+	<Ad id="11" sequence="1">
+		<InLine>
+			<AdSystem>
+				<![CDATA[Campaign Manager]]>
+			</AdSystem>
+			<AdTitle>
+				<![CDATA[15_sec_Raytheon]]>
+			</AdTitle>
+			<Impression>
+				<![CDATA[https://demo.g-mana.net/campagin_manager/www/delivery/lg.php?bannerid=14&campaignid=6&zoneid=11&cb={random}]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration>
+							00:00:15
+						</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=start]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=firstquartile]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=midpoint]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=thirdquartile]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=complete]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=pause]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=mute]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=fullscreen]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=unmute]]>
+							</Tracking>
+							<Tracking event="closeLinear">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=closeLinear]]>
+							</Tracking>
+							<Tracking event="acceptInvitationLinear">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=acceptInvitationLinear]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=skip]]>
+							</Tracking>
+							<Tracking event="progress">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=progress]]>
+							</Tracking>
+							<Tracking event="exitFullscreen">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=exitfullscreen]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=rewind]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=resume]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[https://demo.g-mana.net/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=14__zoneid=11__cb={random}__oadest=https%3A%2F%2Fwww.rtx.com%2F]]>
+							</ClickThrough>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" bitrate="400" width="" height="" type="video/mp4" scalable="true" maintainAspectRatio="true">
+								<![CDATA[https://dwttjeib02u5m.cloudfront.net/adsmp4/15_sec_2.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="11" sequence="2">
+		<InLine>
+			<AdSystem>
+				<![CDATA[Campaign Manager]]>
+			</AdSystem>
+			<AdTitle>
+				<![CDATA[15_sec_CVS]]>
+			</AdTitle>
+			<Impression>
+				<![CDATA[https://demo.g-mana.net/campagin_manager/www/delivery/lg.php?bannerid=15&campaignid=6&zoneid=11&cb={random}]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration>
+							00:00:15
+						</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=start]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=firstquartile]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=midpoint]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=thirdquartile]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=complete]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=pause]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=mute]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=fullscreen]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=unmute]]>
+							</Tracking>
+							<Tracking event="closeLinear">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=closeLinear]]>
+							</Tracking>
+							<Tracking event="acceptInvitationLinear">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=acceptInvitationLinear]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=skip]]>
+							</Tracking>
+							<Tracking event="progress">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=progress]]>
+							</Tracking>
+							<Tracking event="exitFullscreen">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=exitfullscreen]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=rewind]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=resume]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[https://demo.g-mana.net/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=15__zoneid=11__cb={random}__oadest=https%3A%2F%2Fcvshealth.com%2F]]>
+							</ClickThrough>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" bitrate="400" width="" height="" type="video/mp4" scalable="true" maintainAspectRatio="true">
+								<![CDATA[https://dwttjeib02u5m.cloudfront.net/adsmp4/15_sec_3.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="11" sequence="3">
+		<InLine>
+			<AdSystem>
+				<![CDATA[Campaign Manager]]>
+			</AdSystem>
+			<AdTitle>
+				<![CDATA[15_sec_1AFW]]>
+			</AdTitle>
+			<Impression>
+				<![CDATA[https://demo.g-mana.net/campagin_manager/www/delivery/lg.php?bannerid=13&campaignid=6&zoneid=11&cb={random}]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration>
+							00:00:15
+						</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=start]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=firstquartile]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=midpoint]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=thirdquartile]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=complete]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=pause]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=mute]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=fullscreen]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=unmute]]>
+							</Tracking>
+							<Tracking event="closeLinear">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=closeLinear]]>
+							</Tracking>
+							<Tracking event="acceptInvitationLinear">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=acceptInvitationLinear]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=skip]]>
+							</Tracking>
+							<Tracking event="progress">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=progress]]>
+							</Tracking>
+							<Tracking event="exitFullscreen">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=exitfullscreen]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=rewind]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=13&zoneid=11&event=resume]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[https://demo.g-mana.net/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=13__zoneid=11__cb={random}__oadest=https%3A%2F%2Fwww.afw.com%2F]]>
+							</ClickThrough>
+							<ClickTracking>
+								<![CDATA[https://g-mana.com]]>
+							</ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" bitrate="400" width="" height="" type="video/mp4" scalable="true" maintainAspectRatio="true">
+								<![CDATA[https://dwttjeib02u5m.cloudfront.net/adsmp4/15_sec.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+	<Ad id="11" sequence="4">
+		<InLine>
+			<AdSystem>
+				<![CDATA[Campaign Manager]]>
+			</AdSystem>
+			<AdTitle>
+				<![CDATA[6_sec_subway]]>
+			</AdTitle>
+			<Impression>
+				<![CDATA[https://demo.g-mana.net/campagin_manager/www/delivery/lg.php?bannerid=16&campaignid=6&zoneid=11&cb={random}]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration>
+							00:00:06
+						</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=start]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=firstquartile]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=midpoint]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=thirdquartile]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=complete]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=pause]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=mute]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=fullscreen]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=unmute]]>
+							</Tracking>
+							<Tracking event="closeLinear">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=closeLinear]]>
+							</Tracking>
+							<Tracking event="acceptInvitationLinear">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=acceptInvitationLinear]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=skip]]>
+							</Tracking>
+							<Tracking event="progress">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=progress]]>
+							</Tracking>
+							<Tracking event="exitFullscreen">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=exitfullscreen]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=rewind]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=resume]]>
+							</Tracking>
+						</TrackingEvents>
+						<MediaFiles>
+							<MediaFile delivery="progressive" bitrate="400" width="" height="" type="video/mp4" scalable="true" maintainAspectRatio="true">
+								<![CDATA[https://dwttjeib02u5m.cloudfront.net/adsmp4/6_sec.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
