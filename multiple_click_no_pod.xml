@@ -66,11 +66,6 @@
 								<![CDATA[ https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=resume ]]>
 							</Tracking>
 						</TrackingEvents>
-						<VideoClicks>
-							<ClickThrough>
-								<![CDATA[ https://demo.g-mana.net/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=14__zoneid=11__cb={random}__oadest=https%3A%2F%2Fwww.rtx.com%2F ]]>
-							</ClickThrough>
-						</VideoClicks>
 						<MediaFiles>
 							<MediaFile delivery="progressive" bitrate="400" width="" height="" type="video/mp4" scalable="true" maintainAspectRatio="true">
 								<![CDATA[ https://dwttjeib02u5m.cloudfront.net/adsmp4/15_sec_2.mp4 ]]>
@@ -148,11 +143,6 @@
 								<![CDATA[ https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=resume ]]>
 							</Tracking>
 						</TrackingEvents>
-						<VideoClicks>
-							<ClickThrough>
-								<![CDATA[ https://demo.g-mana.net/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=15__zoneid=11__cb={random}__oadest=https%3A%2F%2Fcvshealth.com%2F ]]>
-							</ClickThrough>
-						</VideoClicks>
 						<MediaFiles>
 							<MediaFile delivery="progressive" bitrate="400" width="" height="" type="video/mp4" scalable="true" maintainAspectRatio="true">
 								<![CDATA[ https://dwttjeib02u5m.cloudfront.net/adsmp4/15_sec_3.mp4 ]]>
@@ -230,11 +220,6 @@
 								<![CDATA[ https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=16&zoneid=11&event=resume ]]>
 							</Tracking>
 						</TrackingEvents>
-						<VideoClicks>
-							<ClickThrough>
-								<![CDATA[ https://demo.g-mana.net/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=16__zoneid=11__cb={random}__oadest=https%3A%2F%2Fwww.subway.com%2Fen-US ]]>
-							</ClickThrough>
-						</VideoClicks>
 						<MediaFiles>
 							<MediaFile delivery="progressive" bitrate="400" width="" height="" type="video/mp4" scalable="true" maintainAspectRatio="true">
 								<![CDATA[ https://dwttjeib02u5m.cloudfront.net/adsmp4/6_sec.mp4 ]]>
