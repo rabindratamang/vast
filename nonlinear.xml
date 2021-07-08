@@ -34,7 +34,7 @@
 						</TrackingEvents>
 						<NonLinear id="overlay" width="1920" height="1080" maintainAspectRatio="true" scalable="true">
 							<StaticResource creativeType="image/jpg">
-								https://raw.githubusercontent.com/rabindratamang/vast/master/underlay.png
+								https://raw.githubusercontent.com/rabindratamang/vast/master/ad_underlay.png
 							</StaticResource>
 							<NonLinearClickThrough>
 								https://demo.g-mana.net/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=17__zoneid=14__cb=7481fa7b00__oadest=https%3A%2F%2Fg-mana.com
