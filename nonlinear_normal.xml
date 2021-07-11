@@ -1,0 +1,48 @@
+<VAST version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+	<Ad id="14">
+		<InLine>
+			<AdSystem>
+				Campaign Manager
+			</AdSystem>
+			<AdTitle>
+				ncio_overlay
+			</AdTitle>
+			<Pricing>
+				<model>
+					CPM
+				</model>
+				<currency>
+					USD
+				</currency>
+			</Pricing>
+			<Impression>
+				https://demo.g-mana.net/campagin_manager/www/delivery/lg.php?bannerid=17&campaignid=5&zoneid=14&loc=https%3A%2F%2F%22+window.location.hostname+%22&cb=7481fa7b00
+			</Impression>
+			<Creatives>
+				<Creative sequence="1">
+					<NonLinearAds>
+						<TrackingEvents>
+							<Tracking event="creativeView">
+								https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=17&zoneid=14&event=creativeView
+							</Tracking>
+							<Tracking event="expand">
+								https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=17&zoneid=14&event=expand
+							</Tracking>
+							<Tracking event="collapse">
+								https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=17&zoneid=14&event=collapse
+							</Tracking>
+						</TrackingEvents>
+						<NonLinear id="overlay" width="1920" height="1080" maintainAspectRatio="true" scalable="true">
+							<StaticResource creativeType="image/jpg">
+								https://raw.githubusercontent.com/rabindratamang/vast/master/underlay.png
+							</StaticResource>
+							<NonLinearClickThrough>
+								https://demo.g-mana.net/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=17__zoneid=14__cb=7481fa7b00__oadest=https%3A%2F%2Fg-mana.com
+							</NonLinearClickThrough>
+						</NonLinear>
+					</NonLinearAds>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
