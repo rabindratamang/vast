@@ -1,0 +1,26 @@
+<VAST version="2.0">
+	<Ad id="overlay-1">
+		<InLine>
+			<AdSystem>
+				2.0
+			</AdSystem>
+			<AdTitle>
+				Toyota
+			</AdTitle>
+			<Creatives>
+				<Creative>
+					<NonLinearAds>
+						<NonLinear width="1920" height="1080" minSuggestedDuration="00:00:30" scalable="true" maintainAspectRatio="true">
+							<StaticResource creativeType="image/gif">
+								https://raw.githubusercontent.com/rabindratamang/vast/master/toyota.gif
+							</StaticResource>
+							<NonLinearClickThrough>
+								https://global.toyota/en/
+							</NonLinearClickThrough>
+						</NonLinear>
+					</NonLinearAds>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
