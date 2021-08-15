@@ -83,46 +83,4 @@
             </Creatives>
         </Wrapper>
     </Ad>
-    <Ad id="2" sequence="1">
-		<InLine>
-			<AdSystem><![CDATA[Reviveadservermod.com]]></AdSystem>
-			<AdTitle><![CDATA[ad 2]]></AdTitle>
-			<Impression>
-				<![CDATA[https://krish.g-mana.net/media/debug/impression?impression=1&adId=1]]>
-			</Impression>
-			<Creatives>
-				<Creative>
-					<Linear >
-						<Duration>00:00:33</Duration>
-						<TrackingEvents>
-							<Tracking event="start"><![CDATA[https://krish.g-mana.net/media/debug/impression?event=start&adId=1]]></Tracking>
-							<Tracking event="firstQuartile"><![CDATA[https://krish.g-mana.net/media/debug/impression?event=firstquartile&adId=1]]></Tracking>
-							<Tracking event="midpoint"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?event=midpoint&adId=1]]></Tracking>
-							<Tracking event="thirdQuartile"><![CDATA[https://krish.g-mana.net/media/debug/impression?event=thirdquartile&adId=1]]></Tracking>
-							<Tracking event="complete"><![CDATA[https://krish.g-mana.net/media/debug/impression?event=complete&adId=1]]></Tracking>
-							<Tracking event="pause"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=pause]]></Tracking>
-							<Tracking event="mute"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=mute]]></Tracking>
-							<Tracking event="fullscreen"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=fullscreen]]></Tracking>
-							<Tracking event="unmute"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=unmute]]></Tracking>
-							<Tracking event="closeLinear"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=closeLinear]]></Tracking>
-							<Tracking event="acceptInvitationLinear"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=acceptInvitationLinear]]></Tracking>
-							<Tracking event="skip"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=skip]]></Tracking>
-							<Tracking event="progress"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=progress]]></Tracking>
-							<Tracking event="exitFullscreen"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=exitfullscreen]]></Tracking>
-							<Tracking event="rewind"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=rewind]]></Tracking>
-							<Tracking event="resume"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=resume]]></Tracking>
-						</TrackingEvents>
-  						<VideoClicks>
-                            <ClickThrough><![CDATA[https://vid-io-dub.springserve.com/vd/i?event=js_click&dtid=859861&a_cc=rs.2407-fps.628306-s.629216-ap.8041-d.859861&cb=1611079064772&id=629216&aid=1&d=kxly.com&w=1920&h=1080&cc=US&uuid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03&pp=&ol=0&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&uuid=553e20bd-8a10-4385-906d-3ba2032c5c93&ip=66.211.197.79&_rcc=en.13562_bs.13597&_pi=1&_j=&redirect=http%3A%2F%2Fpredictsports.tv%2F]]></ClickThrough>
-                        </VideoClicks>
-						<MediaFiles>
-							<MediaFile delivery="progressive" bitrate="400" width='640' height='360' type="video/mp4" scalable="true" maintainAspectRatio="true">
-								<![CDATA[https://dwttjeib02u5m.cloudfront.net/adsmp4/countdown.mp4]]>
-							</MediaFile>
-						</MediaFiles>
-					</Linear>
-				</Creative>
-			</Creatives>
-		</InLine>
-	</Ad>
 </VAST>
