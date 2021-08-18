@@ -6,7 +6,7 @@
 				<![CDATA[Torrential]]>
 			</AdSystem>
 			<VASTAdTagURI>
-				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/impression-bug-chained.xml]]>
+				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/double-nested-wrapper-inline-1.xml]]>
 			</VASTAdTagURI>
 			<Impression id="Impression">
 				<![CDATA[https://secure-gl.imrworldwide-nested.com/cgi-bin/m?ci=nlsnci750&am=3&ep=1&at=view&rt=banner&st=image&ca=cmp3557681&cr=creative&pc=plc90243749&ce=torrential&cy=2&c9=devid,0&c13=asid,PF9C79E59-8546-B85D-E040-070AAD317186&r=1628775433388]]>
