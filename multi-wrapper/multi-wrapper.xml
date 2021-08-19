@@ -6,7 +6,7 @@
 				<![CDATA[Torrential]]>
 			</AdSystem>
 			<VASTAdTagURI>
-				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/multi-wrapper/multi-double-nested-wrapper/multi-single-wrapper-1.xml]]>
+				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/multi-wrapper/multi-single-wrapper/multi-single-wrapper-1.xml]]>
 			</VASTAdTagURI>
 			<Impression id="Impression">
 				<![CDATA[https://multi-wrapper-1-impression.com1]]>
@@ -89,7 +89,7 @@
 				<![CDATA[Torrential]]>
 			</AdSystem>
 			<VASTAdTagURI>
-				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/multi-wrapper/multi-double-nested-wrapper/multi-single-wrapper-2.xml]]>
+				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/multi-wrapper/multi-single-wrapper/multi-single-wrapper-2.xml]]>
 			</VASTAdTagURI>
 			<Impression id="Impression">
 				<![CDATA[https://multi-wrapper-2-impression.com1]]>
