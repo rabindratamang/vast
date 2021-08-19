@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="2.0">
+	<Ad id="0">
+		<Wrapper>
+			<AdSystem version="1.0.0">
+				<![CDATA[Torrential]]>
+			</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/multi-wrapper/multi-double-nested-wrapper/double-nested-wrapper-inline-2.xml]]>
+			</VASTAdTagURI>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-1-c-ii-impression.com1]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-1-c-ii-impression.com2]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-1-c-ii-impression.com3]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-1-c-ii-impression.com4]]>
+			</Impression>
+			<Creatives>
+				<Creative sequence="1" id="9864">
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="creativeView">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-creativeview.com]]>
+							</Tracking>
+							<Tracking event="start">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-start.com]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-midpoint.com]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-firstQuartile.com]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-thirdQuartile.com]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-complete.com]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-mute.com]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-unmute.com]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-pause.com]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-rewind.com]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-resume.com]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-fullscreen.com]]>
+							</Tracking>
+							<Tracking event="expand">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-expand.com]]>
+							</Tracking>
+							<Tracking event="collapse">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-collapse.com]]>
+							</Tracking>
+							<Tracking event="acceptInvitation">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-acceptInvitation.com]]>
+							</Tracking>
+							<Tracking event="close">
+								<![CDATA[https://multi-wrapper-1-c-ii-event-close.com]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickTracking>
+								<![CDATA[https://multi-wrapper-1-c-ii-event-clickTracking.com]]>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</Wrapper>
+	</Ad>
+</VAST>
