@@ -166,4 +166,134 @@
 			</Creatives>
 		</Wrapper>
 	</Ad>
+	<Ad id="3">
+		<Wrapper>
+			<AdSystem version="1.0.0">
+				<![CDATA[Torrential]]>
+			</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/multi-wrapper/multi-double-nested-wrapper/double-nested-wrapper-3.xml]]>
+			</VASTAdTagURI>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-3-c-double-iii-impression.com1]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-3-c-double-iii-impression.com2]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-3-c-double-iii-impression.com3]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-3-c-double-iii-impression.com4]]>
+			</Impression>
+			<Creatives>
+				<Creative sequence="1" id="9864">
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="creativeView">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-creativeview.com]]>
+							</Tracking>
+							<Tracking event="start">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-start.com]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-midpoint.com]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-firstQuartile.com]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-thirdQuartile.com]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-complete.com]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-mute.com]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-unmute.com]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-pause.com]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-rewind.com]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-resume.com]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-fullscreen.com]]>
+							</Tracking>
+							<Tracking event="expand">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-expand.com]]>
+							</Tracking>
+							<Tracking event="collapse">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-collapse.com]]>
+							</Tracking>
+							<Tracking event="acceptInvitation">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-acceptInvitation.com]]>
+							</Tracking>
+							<Tracking event="close">
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-close.com]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickTracking>
+								<![CDATA[https://multi-wrapper-3-c-double-iii-event-clickTracking.com]]>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</Wrapper>
+	</Ad>
+	<Ad id="4">
+		<InLine>
+			
+			<AdSystem>
+				Campaign Manager
+			</AdSystem>
+			<AdTitle>
+				Double Nested Inline 4
+			</AdTitle>
+			<Pricing>
+				<model>
+					CPM
+				</model>
+				<currency>
+					USD
+				</currency>
+			</Pricing>
+			<Impression>
+				<![CDATA[https://multi-wrapper-1-c-iv-inline-2-impression.com4]]>
+			</Impression>
+			<Creatives>
+				<Creative sequence="1">
+					<NonLinearAds>
+						<TrackingEvents>
+							<Tracking event="creativeView">
+								https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=17&zoneid=14&event=creativeView
+							</Tracking>
+							<Tracking event="expand">
+								https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=17&zoneid=14&event=expand
+							</Tracking>
+							<Tracking event="collapse">
+								https://demo.g-mana.net/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=17&zoneid=14&event=collapse
+							</Tracking>
+						</TrackingEvents>
+						<NonLinear id="overlay" width="1920" height="1080" maintainAspectRatio="true" scalable="true">
+							<StaticResource creativeType="image/jpg">
+								https://raw.githubusercontent.com/rabindratamang/vast/master/ad_underlay.png
+							</StaticResource>
+							<NonLinearClickThrough>
+								https://multi-wrapper-1-c-iv-inline-2-clickthrough.com
+							</NonLinearClickThrough>
+						</NonLinear>
+					</NonLinearAds>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
 </VAST>
