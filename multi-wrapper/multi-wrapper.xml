@@ -172,7 +172,7 @@
 				<![CDATA[Torrential]]>
 			</AdSystem>
 			<VASTAdTagURI>
-				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/multi-wrapper/multi-double-nested-wrapper/double-wrapper.xml]]>
+				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/multi-wrapper/multi-single-wrapper/multi-single-wrapper-3.xml]]>
 			</VASTAdTagURI>
 			<Impression id="Impression">
 				<![CDATA[https://multi-wrapper-3-impression.com1]]>
@@ -242,6 +242,89 @@
 						<VideoClicks>
 							<ClickTracking>
 								<![CDATA[https://multi-wrapper-3-event-clickTracking.com]]>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</Wrapper>
+	</Ad>
+	<Ad id="3">
+		<Wrapper>
+			<AdSystem version="1.0.0">
+				<![CDATA[Torrential]]>
+			</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/multi-wrapper/multi-double-nested-wrapper/double-wrapper.xml]]>
+			</VASTAdTagURI>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-4-impression.com1]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-4-impression.com2]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-4-impression.com3]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://multi-wrapper-4-impression.com4]]>
+			</Impression>
+			<Creatives>
+				<Creative sequence="1" id="9864">
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="creativeView">
+								<![CDATA[https://multi-wrapper-4-event-creativeview.com]]>
+							</Tracking>
+							<Tracking event="start">
+								<![CDATA[https://multi-wrapper-4-event-start.com]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://multi-wrapper-4-event-midpoint.com]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://multi-wrapper-4-event-firstQuartile.com]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://multi-wrapper-4-event-thirdQuartile.com]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://multi-wrapper-4-event-complete.com]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://multi-wrapper-4-event-mute.com]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://multi-wrapper-4-event-unmute.com]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://multi-wrapper-4-event-pause.com]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[https://multi-wrapper-4-event-rewind.com]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://multi-wrapper-4-event-resume.com]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[https://multi-wrapper-4-event-fullscreen.com]]>
+							</Tracking>
+							<Tracking event="expand">
+								<![CDATA[https://multi-wrapper-4-event-expand.com]]>
+							</Tracking>
+							<Tracking event="collapse">
+								<![CDATA[https://multi-wrapper-4-event-collapse.com]]>
+							</Tracking>
+							<Tracking event="acceptInvitation">
+								<![CDATA[https://multi-wrapper-4-event-acceptInvitation.com]]>
+							</Tracking>
+							<Tracking event="close">
+								<![CDATA[https://multi-wrapper-4-event-close.com]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickTracking>
+								<![CDATA[https://multi-wrapper-4-event-clickTracking.com]]>
 							</ClickTracking>
 						</VideoClicks>
 					</Linear>
