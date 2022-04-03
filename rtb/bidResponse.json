@@ -1,0 +1,15 @@
+{
+    "id":"123",
+    "seatbid":[
+       {
+          "bid":[
+             {
+                "id":"12345",
+                "impid":"2",
+                "price":3.00,
+                "nurl":"https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml"
+             }
+          ]
+       }
+    ]
+ }
