@@ -8,8 +8,30 @@
                 "impid":"2",
                 "price":3.00,
                 "nurl":"https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/krish.xml"
-             }
+             },
+             {
+               "id":"12345",
+               "impid":"2",
+               "price":3.00,
+               "nurl":"https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/nested.xml"
+            }
           ]
-       }
+       },
+       {
+         "bid":[
+            {
+               "id":"12345",
+               "impid":"2",
+               "price":3.00,
+               "nurl":"https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/double-wrapper.xml"
+            },
+            {
+              "id":"12345",
+              "impid":"2",
+              "price":3.00,
+              "nurl":"https://raw.githubusercontent.com/mrkrishnsharma/vastsample/main/multi-wrapper.xml"
+           }
+         ]
+      }
     ]
  }
