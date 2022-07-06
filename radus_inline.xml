@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<VAST version="3" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.iab.com/VAST">
+<VAST version="3.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.iab.com/VAST">
   <Ad id="20007" sequence="1" conditionalAd="false" adType="audio">
     <InLine>
-      <AdSystem version="3">iabtechlab</AdSystem>
+      <AdSystem version="3.0">iabtechlab</AdSystem>
       <Error><![CDATA[https://example.com/error]]></Error>
       <Extensions>
         <Extension type="iab-Count">
