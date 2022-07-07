@@ -20,7 +20,7 @@
 <Linear>
 <Duration>00:00:12</Duration>
 <MediaFiles>
-<MediaFile id="5246" delivery="progressive" type="audiossd/aac" bitrate="128" width="640" height="360" minBitrate="28" maxBitrate="228" scalable="1" maintainAspectRatio="1" codec="mp3">
+<MediaFile id="5246" delivery="progressive" type="audtestio/aac" bitrate="128" width="640" height="360" minBitrate="28" maxBitrate="228" scalable="1" maintainAspectRatio="1" codec="mp3">
 <![CDATA[ https://mkcf.dxmcdn.com/84e10655-97e4-4fa3-96ef-7aafaa35ca7c.mp3 ]]>
 </MediaFile>
 </MediaFiles>
