@@ -1,0 +1,32 @@
+<VAST xmlns="http://www.iab.com/VAST" version="4.1">
+<Ad id="20007" sequence="1" conditionalAd="false" adType="audio">
+<InLine>
+<AdSystem version="4.1">iabtechlab</AdSystem>
+<Error>
+<![CDATA[ https://example.com/error ]]>
+</Error>
+<Extensions>
+<Extension type="iab-Count">
+<total_available>
+<![CDATA[ 2 ]]>
+</total_available>
+</Extension>
+</Extensions>
+<AdServingId>Campaign8762CreativeSet13103DistributorId19</AdServingId>
+<AdTitle>test</AdTitle>
+<Creatives>
+<Creative id="13103" sequence="1" adId="2447226">
+<UniversalAdId idRegistry="Ad-ID">8465</UniversalAdId>
+<Linear>
+<Duration>00:00:12</Duration>
+<MediaFiles>
+<MediaFile id="5246" delivery="progressive" type="audio/mp4" bitrate="128" width="640" height="360" minBitrate="28" maxBitrate="228" scalable="1" maintainAspectRatio="1" codec="mp3">
+<![CDATA[ https://mkcf.dxmcdn.com/84e10655-97e4-4fa3-96ef-7aafaa35ca7c.mp3 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
