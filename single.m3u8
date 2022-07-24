@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:7
+
+# Video
+#EXT-X-STREAM-INF:CODECS="avc1.42801e,mp4a.40.2",BANDWIDTH=500000,RESOLUTION=640x360,AUDIO="audio"
+http://omd-edge-stg-01.jitp-linear-c-1.cdn.stg.yesplus.tv/hls-mp4/linear-mc/YESV/100/2001--profile--0.5.m3u8
+
