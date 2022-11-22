@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST version="3.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
-	<Ad id="1" sequence="1">
+	<Ad id="14124566" sequence="1">
 		<InLine>
 			<AdSystem><![CDATA[Reviveadservermod.com]]></AdSystem>
 			<AdTitle><![CDATA[ad 2]]></AdTitle>
@@ -11,31 +11,32 @@
 			<Creatives>
 				<Creative>
 					<Linear >
-						<Duration>00:00:33</Duration>
+						<Duration>00:00:30</Duration>
 						<TrackingEvents>
-							<Tracking event="start"><![CDATA[https://krish.g-mana.net/media/debug/impression?event=start&adId=1]]></Tracking>
-							<Tracking event="firstQuartile"><![CDATA[https://krish.g-mana.net/media/debug/impression?event=firstquartile&adId=1]]></Tracking>
-							<Tracking event="midpoint"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?event=midpoint&adId=1]]></Tracking>
-							<Tracking event="thirdQuartile"><![CDATA[https://krish.g-mana.net/media/debug/impression?event=thirdquartile&adId=1]]></Tracking>
-							<Tracking event="complete"><![CDATA[https://krish.g-mana.net/media/debug/impression?event=complete&adId=1]]></Tracking>
-							<Tracking event="pause"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=pause]]></Tracking>
-							<Tracking event="mute"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=mute]]></Tracking>
-							<Tracking event="fullscreen"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=fullscreen]]></Tracking>
-							<Tracking event="unmute"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=unmute]]></Tracking>
+							<Tracking event="start"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=firstquartile&adId=1]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=midpoint&adId=1]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=thirdquartile&adId=1]]></Tracking>
+							<Tracking event="complete"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=complete&adId=1]]></Tracking>
+							<Tracking event="pause"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=pause]]></Tracking>
+							<Tracking event="mute"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=mute]]></Tracking>
+							<Tracking event="fullscreen"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=fullscreen]]></Tracking>
+							<Tracking event="unmute"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=unmute]]></Tracking>
 							<Tracking event="closeLinear"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=closeLinear]]></Tracking>
 							<Tracking event="acceptInvitationLinear"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=acceptInvitationLinear]]></Tracking>
 							<Tracking event="skip"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=skip]]></Tracking>
 							<Tracking event="progress"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=progress]]></Tracking>
 							<Tracking event="exitFullscreen"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=exitfullscreen]]></Tracking>
-							<Tracking event="rewind"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=rewind]]></Tracking>
+							<Tracking event="rewind"><![CDATA[https://krish.g-mana.et/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=rewind]]></Tracking>
 							<Tracking event="resume"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=resume]]></Tracking>
 						</TrackingEvents>
-  						<VideoClicks>
-                            <ClickThrough><![CDATA[https://vid-io-dub.springserve.com/vd/i?event=js_click&dtid=859861&a_cc=rs.2407-fps.628306-s.629216-ap.8041-d.859861&cb=1611079064772&id=629216&aid=1&d=kxly.com&w=1920&h=1080&cc=US&uuid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03&pp=&ol=0&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F87.0.4280.141+Safari%2F537.36&ssid=acb7e0cd-ebf8-4ac6-93b1-82b223881b03.1611079064502&uuid=553e20bd-8a10-4385-906d-3ba2032c5c93&ip=66.211.197.79&_rcc=en.13562_bs.13597&_pi=1&_j=&redirect=http%3A%2F%2Fpredictsports.tv%2F]]></ClickThrough>
-                        </VideoClicks>
+						<VideoClicks>
+							<ClickThrough id="GDFP"><![CDATA[https://pubads.g.dousbleclick.net/pcs/click?xai=AKAOjsvJ4n2_G7y7_q1rrRf6O1zNwCUVG6JZzUl1EOL5CrgsuoR_Yg9HSV1X3CKdQJUk8UOvyZtgB7-ze5zo7HdZcDf2lODujCwKQHVb83qi2gBLyk-iHP-UBkUDdwamXYSdZX3ZFZXUcWRUt_NZCbPNlpYNS6Atjv78SWN12dunFCK8KUFm5xQzlr4VXwc7nGsUCb7ahYHFQM2c0-NJD2nj55hhJaj5nIMXbOACkFaN5Ydz34G0DyQfePPZqirs8wugTUpnCgNlAm1e9lZoIqi3zCqiWZCQ-O4BrQ6dAdGUtFkhckCdLdHD-H6nSW7tomIX&sai=AMfl-YRCwv98vbeh7apSUpvoCnqZyi6AcePlWJRaBORwtcSP8tdcWvzpfWP3zjkCK4KDtND36EBY-hkLyzPm9OKtllzFSU-Qh9ZlNIpy8DKe9h9jA7ZZ9w&sig=Cg0ArKJSzJaj95qbgLAt&fbs_aeid=[gw_fbsaeid]&adurl=https://www.iec.co.il/content/content-pages/whatsapp]]></ClickThrough>
+							<ClickTracking id="GDFP"><![CDATA[https://ib.adnsxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10112%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus]]></ClickTracking>
+						</VideoClicks>
 						<MediaFiles>
 							<MediaFile delivery="progressive" bitrate="400" width='640' height='360' type="video/mp4" scalable="true" maintainAspectRatio="true">
-								<![CDATA[https://dwttjeib02u5m.cloudfront.net/adsmp4/countdown.mp4]]>
+								<![CDATA[https://cuemana1.blob.core.windows.net/gmana-assets/krishna/earth.mp4]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
