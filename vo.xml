@@ -1,0 +1,280 @@
+<VAST version="3.0">
+    <Ad id="1106w123231922" sequence="1">
+        <InLine>
+            <AdSystem version="v1">SMART AdServer</AdSystem>
+            <AdTitle>VAST 3.0 OVERLAY insertion 11061922</AdTitle>
+            <Description>Official SMART AdServer VAST 3.0 template for displaying a non-linear ad</Description>
+            <Advertiser>485368</Advertiser>
+            <Error>
+    <![CDATA[ https://videoapi.smartadserver.com/track/action?ec=[ERRORCODE]&key=videoerror&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Error>
+            <Impression id="impression_smart">
+    <![CDATA[ https://apac1.smartadserver.com/h/aip?uii=6114322779143568484&tmstp=1667907024851&uid=311921688bfee63daec60c413d5d8b5b&systgt=%24qc%3d1307017490%3b%24ql%3dUnknown%3b%24qpc%3d44600%3b%24qt%3d211_4875_185122t%3b%24dma%3d0%3b%24b%3d16999%3b%24o%3d99999&acd=1667926005228&envtype=0&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&siteid=527320&tgt=ct_title%3dOSC+PLUS%3bct_type%3dch%3b%7cpg%3d3%3b%24dt%3d1t%3b%24hc&vpw=1080&vph=1920&abpos=1&arid=-1&gdpr=0&visit=V&statid=1&imptype=1&intgtype=0&cappid=1625976679&capp=0&mcrdbt=1&insid=11061922&imgid=28733642&pgid=1642145&fmtid=90132&isLazy=0 ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel1">
+    <![CDATA[ https://rtb-csync.smartadserver.com/redir/?issi=1&partnerid=76&partneruserid=GOOGLE_HOSTED_SI&redirurl=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dsmartrtb_dbm%26google_cm%26google_sc%26google_hm%3DSMART_USER_ID_B64 ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel2">
+    <![CDATA[ https://match.adsrvr.org/track/cmf/generic?ttd_pid=smart-adserver&ttd_tpi=1 ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel3">
+    <![CDATA[ https://c1.adform.net/serving/cookie/match?party=10&sspurl=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D22%26partneruserid%3DYOUR_USER_ID ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel4">
+    <![CDATA[ https://sync.mathtag.com/sync/img?mt_exid=39&redir=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D25%26partneruserid%3D%5BMM_UUID%5D ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel5">
+    <![CDATA[ https://x.bidswitch.net/sync?ssp=smartadserver ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel6">
+    <![CDATA[ https://match.prod.bidr.io/cookie-sync/sas ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel7">
+    <![CDATA[ https://rtb-csync.smartadserver.com/redir/?issi=1&partnerid=134&partneruserid=OB_OK&redirurl=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dsmart_adserver_eb%26google_hm%3DSMART_USER_ID_B64 ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel8">
+    <![CDATA[ https://sync.adotmob.com/cookie/smart?r=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D66%26partneruserid%3D%7Bamob_user_id%7D ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel9">
+    <![CDATA[ https://secure.adnxs.com/getuid?https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D86%26partneruserid%3D$UID ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel10">
+    <![CDATA[ https://image6.pubmatic.com/AdServer/UCookieSetPug?&rd=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D91%26partneruserid%3D%23PM_USER_ID%26gdpr%3DPM_GDPR%26gdpr_consent%3DPM_CONSENT ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel11">
+    <![CDATA[ https://eu-u.openx.net/w/1.0/cm?id=a547219b-814b-4e3e-8a4f-35c044fa1891&ph=ec81d0b7-c42e-4a42-b97a-9305af647d30&r=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D100%26partneruserid%3D%7BOPENX_ID%7D ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel12">
+    <![CDATA[ https://rtb-csync.smartadserver.com/redir/?issi=1&partnerid=135&partneruserid=TAM_OK&redirurl=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fdcm%3Fpid%3Df7a5db36-1d5c-4c26-81b6-b4d0807faffb%26id%3DSMART_USER_ID ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel13">
+    <![CDATA[ https://ad.turn.com/r/cs?pid=33&redir=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D32%26partneruserid%3D%23USER_ID%23%26gdpr%3D%23GDPR_APPLICABLE%23%26gdpr_consent%3D%23GDPR_CONSENT%23 ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel14">
+    <![CDATA[ https://ssum-sec.casalemedia.com/usermatch?s=179394&cb=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D33%26partneruserid%3D ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel15">
+    <![CDATA[ https://dsp.adfarm1.adition.com/cookie/?ssp=5 ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel16">
+    <![CDATA[ https://cms.quantserve.com/pixel/p-EtBqU4Lj3YbAv.gif?idmatch=0 ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel17">
+    <![CDATA[ https://gu.dyntrk.com/adx/sma/us.php?dynk=sma4rt4bt4fg&sspurl=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D69%26partneruserid%3DPARTNER_USER_ID%26gdpr%3D$GDPR%26gdpr_consent%3D$GDPR_CONSENT ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel18">
+    <![CDATA[ https://bh.contextweb.com/bh/rtset?pid=560288&ev=1&rurl=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D92%26partneruserid%3D%25%25VGUID%25%25 ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel19">
+    <![CDATA[ https://sync.tidaltv.com/genericusersync.ashx?dpid=3157 ]]>
+    </Impression>
+            <Impression id="rtbcsync_pixel20">
+    <![CDATA[ https://dis.criteo.com/dis/usersync.aspx?r=30&p=273&cp=smartortb&cu=1&url=https%3A%2F%2Frtb-csync.smartadserver.com%2Fredir%2F%3Fissi%3D2%26partnerid%3D79%26partneruserid%3D%40%40CRITEO_USERID%40%40 ]]>
+    </Impression>
+            <Impression id="impression_smart">
+    <![CDATA[ https://s.ads.smartadserver.com/2/884833/analytics.js?dt=8848331610101564891000&di=&ui=[uid]&md=2&ap=&sr=smartadserver.com&pp=3735&ti=5bbe293a63ad4b1ba01b32dc1dc331a2&de=2&to=3&pv=4fc8df06-9cbf-4be1-9de9-3bc564fb6cea ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="11061922">
+                    <NonLinearAds>
+                        <TrackingEvents>
+                            <Tracking event="creativeView">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=creativeView&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="start">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=start&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=firstQuartile&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=midpoint&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=thirdQuartile&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=complete&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event=" mute">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key= mute&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=unmute&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=pause&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=rewind&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=resume&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=fullscreen&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=exitFullscreen&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="expand">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=expand&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="collapse">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=collapse&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitation">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=acceptInvitation&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                            <Tracking event="close">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=close&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1 ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <NonLinear id="sas_cid_28733642" width="7280" height="900"
+                            expandedWidth="7280" expandedHeight="900" scalable="true"
+                            maintainAspectRatio="true" minSuggestedDuration="00:00:30">
+                            <StaticResource creativeType="image/gif">
+    <![CDATA[ https://creatives.sascdn.com/diff/3735/11061922/Overlay_LIVE_SPA_KIDS_5893fb3e-b578-412a-a1a2-30deb588b3f0.gif ]]>
+    </StaticResource>
+                            <NonLinearClickTracking id="click_tracking_smart">
+    <![CDATA[ https://videoapi.smartadserver.com/h/cp?imgid=28733642&insid=11061922&pgid=1642145&fmtid=90132&uid=311921688bfee63daec60c413d5d8b5b&uii=6114322779143568484&acd=1667926005228&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&tmstp=1667907024851&tgt=ct_title%3dOSC+PLUS%3bct_type%3dch%3b%7cpg%3d3%3b%24dt%3d1t%3b%24hc&systgt=%24qc%3d1307017490%3b%24ql%3dUnknown%3b%24qpc%3d44600%3b%24qt%3d211_4875_185122t%3b%24dma%3d0%3b%24b%3d16999%3b%24o%3d99999&envtype=0&imptype=1&gdpr=0&vpw=1080&vph=1920&abpos=1&arid=-1&cappid=1625976679 ]]>
+    </NonLinearClickTracking>
+                        </NonLinear>
+                    </NonLinearAds>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension>
+                    <customisedScript>
+    <![CDATA[ ]]>
+    </customisedScript>
+                </Extension>
+                <Extension>
+                    <instanceCount>
+    <![CDATA[ 1 ]]>
+    </instanceCount>
+                </Extension>
+                <Extension>
+                    <IntegralAdScience>
+                        <advEntityId>
+    <![CDATA[ ]]>
+    </advEntityId>
+                        <pubEntityId>
+    <![CDATA[ ]]>
+    </pubEntityId>
+                    </IntegralAdScience>
+                </Extension>
+                <Extension>
+                    <SmartMacros>
+                        <statDomainID>
+    <![CDATA[ ]]>
+    </statDomainID>
+                        <networkID>
+    <![CDATA[ 3735 ]]>
+    </networkID>
+                        <templateID>
+    <![CDATA[ 91896 ]]>
+    </templateID>
+                        <advertiserID>
+    <![CDATA[ 485368 ]]>
+    </advertiserID>
+                        <campaignID>
+    <![CDATA[ 2120202 ]]>
+    </campaignID>
+                        <insertionID>
+    <![CDATA[ 11061922 ]]>
+    </insertionID>
+                        <siteID>
+    <![CDATA[ 527320 ]]>
+    </siteID>
+                        <pageID>
+    <![CDATA[ 1642145 ]]>
+    </pageID>
+                        <formatID>
+    <![CDATA[ 90132 ]]>
+    </formatID>
+                        <adBreakType>
+    <![CDATA[ ]]>
+    </adBreakType>
+                        <target>
+    <![CDATA[ ct_title=OSC PLUS;ct_type=ch;|pg=3;$dt=1t ]]>
+    </target>
+                        <sessionID>
+    <![CDATA[ 1667907024851 ]]>
+    </sessionID>
+                        <baseUrl>
+    <![CDATA[ https://www14.smartadserver.com ]]>
+    </baseUrl>
+                        <instances>
+    <![CDATA[ 1 ]]>
+    </instances>
+                        <videoPlayerWidth>
+    <![CDATA[ 1080 ]]>
+    </videoPlayerWidth>
+                        <videoPlayerHeight>
+    <![CDATA[ 1920 ]]>
+    </videoPlayerHeight>
+                        <referrer>
+    <![CDATA[ ]]>
+    </referrer>
+                        <ip>
+    <![CDATA[ 27.34.68.131 ]]>
+    </ip>
+                        <contentID>
+    <![CDATA[ ]]>
+    </contentID>
+                        <contentTitle>
+    <![CDATA[ ]]>
+    </contentTitle>
+                        <videoContentType>
+    <![CDATA[ ]]>
+    </videoContentType>
+                        <videoContentCategory>
+    <![CDATA[ ]]>
+    </videoContentCategory>
+                        <videoContentDuration>
+    <![CDATA[ 0 ]]>
+    </videoContentDuration>
+                        <videoSeasonNumber>
+    <![CDATA[ 0 ]]>
+    </videoSeasonNumber>
+                        <videoEpisodeNumber>
+    <![CDATA[ 0 ]]>
+    </videoEpisodeNumber>
+                        <videoContentRating>
+    <![CDATA[ ]]>
+    </videoContentRating>
+                        <contentProviderId>
+    <![CDATA[ ]]>
+    </contentProviderId>
+                        <contentProviderName>
+    <![CDATA[ ]]>
+    </contentProviderName>
+                        <videoContentDistributorId>
+    <![CDATA[ ]]>
+    </videoContentDistributorId>
+                        <videoContentDistributorName>
+    <![CDATA[ ]]>
+    </videoContentDistributorName>
+                        <externalContentId>
+    <![CDATA[ ]]>
+    </externalContentId>
+                        <videoCmsId>
+    <![CDATA[ ]]>
+    </videoCmsId>
+                        <videoContentTags>
+    <![CDATA[ ]]>
+    </videoContentTags>
+                    </SmartMacros>
+                </Extension>
+                <Extension type="activeview">
+                    <CustomTracking>
+                        <Tracking event="viewable_impression">
+    <![CDATA[ https://www14.smartadserver.com/track/action?key=viewcount&num1=0&num3=&opid=12430d37-a321-4a05-b8e7-2492644ef5d8&opdt=1667926005228&pid=1642145&fmtid=90132&iid=11061922&cid=28733642&sid=1667907024851&envtype=0&spot_id=&imptype=1&vpw=1080&vph=1920&abpos=1&arid=-1&ima_viewability=1 ]]>
+    </Tracking>
+                    </CustomTracking>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
