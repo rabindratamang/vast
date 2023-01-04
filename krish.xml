@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST version="3.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
-	<Ad id="14124566" sequence="1">
+	<Ad id="6187177410" sequence="1">
 		<InLine>
 			<AdSystem><![CDATA[Reviveadservermod.com]]></AdSystem>
 			<AdTitle><![CDATA[ad 2]]></AdTitle>
 			<Impression>
-				<![CDATA[https://krish.g-mana.net/media/debug/impression?impression=1&adId=1]]>
+				<![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
 			</Impression>
 			<Creatives>
 				<Creative>
@@ -31,8 +31,10 @@
 							<Tracking event="resume"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=resume]]></Tracking>
 						</TrackingEvents>
 						<VideoClicks>
-							<ClickThrough id="GDFP"><![CDATA[https://pubads.g.dousbleclick.net/pcs/click?xai=AKAOjsvJ4n2_G7y7_q1rrRf6O1zNwCUVG6JZzUl1EOL5CrgsuoR_Yg9HSV1X3CKdQJUk8UOvyZtgB7-ze5zo7HdZcDf2lODujCwKQHVb83qi2gBLyk-iHP-UBkUDdwamXYSdZX3ZFZXUcWRUt_NZCbPNlpYNS6Atjv78SWN12dunFCK8KUFm5xQzlr4VXwc7nGsUCb7ahYHFQM2c0-NJD2nj55hhJaj5nIMXbOACkFaN5Ydz34G0DyQfePPZqirs8wugTUpnCgNlAm1e9lZoIqi3zCqiWZCQ-O4BrQ6dAdGUtFkhckCdLdHD-H6nSW7tomIX&sai=AMfl-YRCwv98vbeh7apSUpvoCnqZyi6AcePlWJRaBORwtcSP8tdcWvzpfWP3zjkCK4KDtND36EBY-hkLyzPm9OKtllzFSU-Qh9ZlNIpy8DKe9h9jA7ZZ9w&sig=Cg0ArKJSzJaj95qbgLAt&fbs_aeid=[gw_fbsaeid]&adurl=https://www.iec.co.il/content/content-pages/whatsapp]]></ClickThrough>
-							<ClickTracking id="GDFP"><![CDATA[https://ib.adnsxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10112%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus]]></ClickTracking>
+							<ClickThrough id="GDFP"><![CDATA[https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjssQX4rH_q6lmmoN_CtZ3lyhvDty7xb_l45NQRIC1YEVRLjTmCoJDp5bBMKpvyMMthrdxNsl1CawdAiEw05vTWVElgnX6DSe6qgWHGtcr7iw3dSuK95H8KzRWNsYIVIA0DDaYz5RAbTZXeALPFdwafWLk8s6oBqiCh01e9eY1OoDWSE_AmkXrAVgF9ed-dc5N2ky2r--Al20FTxmbchmIwxiZVfLxPBS69r5eX9rzavPALpqZ029gLSkAeK9IhKPCb8EXgJSauRpJoQLvKBq9EJhTmWAVh-llAlwlkgQYZTxjfvXBlDaGVfWl8v2YDX9&sai=AMfl-YQzAWz_nkXZBYhIjrj5gkNo-UwvrMVJXgI9liQKJ2rVLm0ck1XyKVkR7kQbraGuJxUN6m78NUAY_2DgwH-MQImYoBgCvoPwnm7tHbhrjFod3u0_oA&sig=Cg0ArKJSzFb9j_UFoxBX&fbs_aeid=[gw_fbsaeid]&adurl=https://www.teva.co.il/about-teva/csr/wise-use-of-medicines/]]></ClickThrough>
+							<ClickTracking id="GDFP"><![CDATA[https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A11152%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus1]]></ClickTracking>
+							<ClickTracking id="GDFP"><![CDATA[https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A11152%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus2]]></ClickTracking>
+							<ClickTracking id="GDFP"><![CDATA[https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A11152%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus3]]></ClickTracking>
 						</VideoClicks>
 						<MediaFiles>
 							<MediaFile delivery="progressive" bitrate="400" width='640' height='360' type="video/mp4" scalable="true" maintainAspectRatio="true">
