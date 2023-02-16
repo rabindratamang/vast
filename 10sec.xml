@@ -71,6 +71,10 @@
 								<![CDATA[ https://cdn.g-mana.online/media/assets/IZ%20juice%20it's%20simply%20amazing%20!%2010%20sec%20Ad.mp4 ]]>
 							</MediaFile>
 						</MediaFiles>
+						<VideoClicks>
+							<ClickThrough id="GDFP"><![CDATA[https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjssQX4rH_q6lmmoN_CtZ3lyhvDty7xb_l45NQRIC1YEVRLjTmCoJDp5bBMKpvyMMthrdxNsl1CawdAiEw05vTWVElgnX6DSe6qgWHGtcr7iw3dSuK95H8KzRWNsYIVIA0DDaYz5RAbTZXeALPFdwafWLk8s6oBqiCh01e9eY1OoDWSE_AmkXrAVgF9ed-dc5N2ky2r--Al20FTxmbchmIwxiZVfLxPBS69r5eX9rzavPALpqZ029gLSkAeK9IhKPCb8EXgJSauRpJoQLvKBq9EJhTmWAVh-llAlwlkgQYZTxjfvXBlDaGVfWl8v2YDX9&sai=AMfl-YQzAWz_nkXZBYhIjrj5gkNo-UwvrMVJXgI9liQKJ2rVLm0ck1XyKVkR7kQbraGuJxUN6m78NUAY_2DgwH-MQImYoBgCvoPwnm7tHbhrjFod3u0_oA&sig=Cg0ArKJSzFb9j_UFoxBX&fbs_aeid=[gw_fbsaeid]&adurl=https://www.teva.co.il/about-teva/csr/wise-use-of-medicines/]]></ClickThrough>
+							<ClickTracking id="GDFP"><![CDATA[https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A11152%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus]]></ClickTracking>
+						</VideoClicks>
 					</Linear>
 				</Creative>
 			</Creatives>
