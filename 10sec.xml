@@ -1,11 +1,11 @@
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
-	<Ad id="1" sequence="1">
+	<Ad id="1012354" sequence="10123">
 		<InLine>
 			<AdSystem>
 				<![CDATA[ Reviveadservermod.com ]]>
 			</AdSystem>
 			<AdTitle>
-				<![CDATA[ ad 2 ]]>
+				<![CDATA[ 10 sec ]]>
 			</AdTitle>
 			<Impression>
 				<![CDATA[ https://krish.g-mana.net/media/debug/impression?impression=1&adId=1 ]]>
