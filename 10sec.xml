@@ -1,5 +1,5 @@
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
-	<Ad id="1012354" sequence="10123">
+	<Ad id="1012312454554" sequence="10123">
 		<InLine>
 			<AdSystem>
 				<![CDATA[ Reviveadservermod.com ]]>
@@ -11,7 +11,7 @@
 				<![CDATA[ https://krish.g-mana.net/media/debug/impression?impression=1&adId=1 ]]>
 			</Impression>
 			<Creatives>
-				<Creative>
+				<Creative id="123743294230">
 					<Linear>
 						<Duration>
 							00:00:10
