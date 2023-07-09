@@ -46,7 +46,7 @@
                         <AdParameters><![CDATA[ adrulesversion=2.1,campaignid=7cff765c-e545-4f3c-98ca-d1c85502732c,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=2,positionpriority=4 ]]></AdParameters>
                         <MediaFiles>
                             <MediaFile delivery="progressive" width="1920" height="1080"
-                                type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://gmanacdn.s.llnwi.net/bmedia-server/creatives/745643424823.mp4]]></MediaFile>
+                                type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://gmanacdn.s.llnwi.net/bmedia-server/creatives/db804a61-cf08-4c49-b6e2-cac61b768073.mp4]]></MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>
