@@ -14,6 +14,11 @@
                         <![CDATA[verfication params key value pairs]]>
                     </VerificationParameters>
                 </Verification>
+                <Verification>
+                    <JavaScriptResource>
+                        <![CDATA[https://verificationcompany.com/untrusted.js]]>
+                    </JavaScriptResource>
+                </Verification>
             </Adverifications>
             <Impression><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=impression]]></Impression>
             <Creatives>
