@@ -53,4 +53,56 @@
             </Creatives>
         </InLine>
     </Ad>
+    <Ad id="745643424824">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[g2-mukul_creatives v2 ]]></AdTitle>
+            <AdVerifications>
+                <Verification>
+                    <JavaScriptResource>
+                        <![CDATA[https://verificationcompany1.com/verification_scriptv2.js]]>
+                    </JavaScriptResource>
+                    <VerificationParameters>
+                        <![CDATA[parameter1=value1&parameter2=value2&parameter3=value3]]>
+                    </VerificationParameters>
+                </Verification>
+                <Verification>
+                    <JavaScriptResource>
+                        <![CDATA[https://verificationcompany.com/untrustedv2.js]]>
+                    </JavaScriptResource>
+                </Verification>
+            </AdVerifications>
+            <Impression><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=impression]]></Impression>
+            <Creatives>
+                <Creative id="745643424824">
+                    <Linear>
+                        <Duration>00:00:05</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=start]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=firstquartile]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=midpoint]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=thirdquartile]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=complete]]></Tracking>
+                            <Tracking event="pause"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=pause]]></Tracking>
+                            <Tracking event="mute"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=mute]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=fullscreen]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=unmute]]></Tracking>
+                            <Tracking event="closeLinear"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=closeLinear]]></Tracking>
+                            <Tracking event="acceptInvitationLinear"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=acceptInvitationLinear]]></Tracking>
+                            <Tracking event="skip"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=skip]]></Tracking>
+                            <Tracking event="progress"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=progress]]></Tracking>
+                            <Tracking event="exitFullscreen"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=exitfullscreen]]></Tracking>
+                            <Tracking event="rewind"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=rewind]]></Tracking>
+                            <Tracking event="resume"><![CDATA[https://test.live/media-server/event?type=pod&creative_id=745643424823&campaign_id=7cff765c-e545-4f3c-98ca-d1c85502732c&placement_id=44fece16-4dc6-4daa-9af2-28215a761157&event=resume]]></Tracking>
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[ adrulesversion=2.1,campaignid=7cff765c-e545-4f3c-98ca-d1c85502732c,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=2,positionpriority=4 ]]></AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" width="1920" height="1080"
+                                type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://gmanacdn.s.llnwi.net/bmedia-server/creatives/db804a61-cf08-4c49-b6e2-cac61b768073.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
 </VAST>
