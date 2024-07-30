@@ -10,6 +10,7 @@
 			</Impression>
 			<Creatives>
 				<Creative>
+					<UniversalAdId idRegistry="Ad-ID" idValue="8465u">8465</UniversalAdId>
 					<Linear >
 						<Duration>00:00:30</Duration>
 						<TrackingEvents>
