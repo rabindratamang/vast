@@ -9,6 +9,18 @@
 				<![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
 			</Impression>
 			<Creatives>
+				<Creative id="548asd0" sequence="1">
+                    <CompanionAds>
+                        <Companion id="1232" width="300" height="250" assetWidth="1920" assetHeight="1080" expandedWidth="350" expandedHeight="250">
+                            <StaticResource creativeType="image/jpeg">
+                            <![CDATA[https://gmanacdn.s.llnwi.net/bmedia-server/creatives/6b053e79-bb05-41f7-bf88-1b7149141b29.png]]>
+                            </StaticResource>
+                            <CompanionClickThrough>
+                                <![CDATA[https://iabtechlab.com]]>
+                            </CompanionClickThrough>
+                        </Companion>
+                    </CompanionAds>
+                </Creative>
 				<Creative id="1234c">
 					<Linear >
 						<Duration>00:00:30</Duration>
