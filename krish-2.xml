@@ -18,6 +18,16 @@
                             <CompanionClickThrough>
                                 <![CDATA[https://iabtechlab.com]]>
                             </CompanionClickThrough>
+							<CompanionClickTracking id="GDFP"><![CDATA[https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A11152%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus1]]></CompanionClickTracking>
+							<CompanionClickTracking id="GDFP"><![CDATA[https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A11152%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus1]]></CompanionClickTracking>
+							<TrackingEvents>
+								<Tracking event="start" ><![CDATA[https://example.com/tracking/start]]></Tracking>
+								<Tracking event="progress" offset="00:00:10"><![CDATA[http://example.com/tracking/progress-10]]></Tracking>
+								<Tracking event="firstQuartile"><![CDATA[https://example.com/tracking/firstQuartile]]></Tracking>
+								<Tracking event="midpoint"><![CDATA[https://example.com/tracking/midpoint]]></Tracking>
+								<Tracking event="thirdQuartile"><![CDATA[https://example.com/tracking/thirdQuartile]]></Tracking>
+								<Tracking event="complete"><![CDATA[https://example.com/tracking/complete]]></Tracking>
+							  </TrackingEvents>
                         </Companion>
                     </CompanionAds>
                 </Creative>
