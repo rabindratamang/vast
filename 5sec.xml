@@ -68,7 +68,7 @@
 						</TrackingEvents>
 						<MediaFiles>
 							<MediaFile delivery="progressive" bitrate="128000" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true">
-								<![CDATA[ https://cdn.g-mana.online/media/assets/5.mp4 ]]>
+								<![CDATA[ https://raw.githubusercontent.com/rabindratamang/vast/master/assets/5.mp4 ]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>

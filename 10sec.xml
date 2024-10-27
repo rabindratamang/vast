@@ -68,7 +68,7 @@
 						</TrackingEvents>
 						<MediaFiles>
 							<MediaFile delivery="progressive" bitrate="128000" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true">
-								<![CDATA[ https://cdn.g-mana.online/media/assets/IZ%20juice%20it's%20simply%20amazing%20!%2010%20sec%20Ad.mp4 ]]>
+								<![CDATA[ https://raw.githubusercontent.com/rabindratamang/vast/master/assets/10.mp4 ]]>
 							</MediaFile>
 						</MediaFiles>
 						<VideoClicks>
