@@ -271,6 +271,7 @@
 			</Impression>
 			<Creatives>
 				<Creative sequence="1">
+					<UniversalAdId idRegistry="Ad-ID" idValue="1234u">8465-inline-double-top</UniversalAdId>
 					<NonLinearAds>
 						<TrackingEvents>
 							<Tracking event="creativeView">
