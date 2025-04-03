@@ -21,7 +21,7 @@
 			</Impression>
 			<Creatives>
 				<Creative sequence="1">
-					<UniversalAdId idRegistry="Ad-ID" idValue="1234u">8465-inline-double-3</UniversalAdId>
+					<UniversalAdId idValue="1234u">8465-inline-double-3</UniversalAdId>
 					<NonLinearAds>
 						<TrackingEvents>
 							<Tracking event="creativeView">

@@ -24,7 +24,7 @@
 			</Impression>
 			<Creatives>
 				<Creative id="1h1aqo">
-					<UniversalAdId idRegistry="Ad-ID" idValue="1234u">8465-inline-double-2</UniversalAdId>
+					<UniversalAdId idRegistry="Ad-ID" >8465-inline-double-2</UniversalAdId>
 					<Linear>
 						<Duration>
 							00:00:30
