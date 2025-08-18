@@ -1,0 +1,38 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="4.2">
+    <Ad id="DVMM_FEG2_V8CY">
+        <InLine>
+            <AdSystem>VideoStorm</AdSystem>
+            <AdTitle>Bell Media (Stratia CTV tag)</AdTitle>
+            <Description>Bell Media (Stratia CTV tag)</Description>
+            <Error>https://listener.linkstorm.net/error/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==error_code[ERRORCODE]</Error>
+            <Impression>https://listener.linkstorm.net/impression/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Impression>
+            <Creatives>
+                <Creative sequence="1">
+                    <Linear>
+                        <Duration>00:00:30</Duration>
+                        <TrackingEvents>
+                            <Tracking event="creativeView">https://listener.linkstorm.net/viewable/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                            <Tracking event="start">https://listener.linkstorm.net/start/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                            <Tracking event="firstQuartile">https://listener.linkstorm.net/firstQuartile/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                            <Tracking event="midpoint">https://listener.linkstorm.net/midpoint/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                            <Tracking event="thirdQuartile">https://listener.linkstorm.net/thirdQuartile/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                            <Tracking event="complete">https://listener.linkstorm.net/complete/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                            <Tracking event="mute">https://listener.linkstorm.net/mute/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                            <Tracking event="unmute">https://listener.linkstorm.net/unmute/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                            <Tracking event="pause">https://listener.linkstorm.net/pause/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                            <Tracking event="resume">https://listener.linkstorm.net/resume/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==</Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickTracking id="linkstorm"><![CDATA[https://listener.linkstorm.net/clicktracking/NCpAJ0csOzM9Ll98L3xFPyVVPGU3aWB0K0FMPig6KkJXRE1eSUVPMGBNOzxbfS96WEtJUWFJSCI6ejU1PS84MDQ1OzBBMzkyNy4+fix6VERaUVJKTldOPCo2JS06NDk0PDM/MEArPy41Lzw1OjMkKilKRUJaS1t7QXgpdA==]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile id="1" type="video/mp4" height="720" width="1280" delivery="progressive"><![CDATA[https://raw.githubusercontent.com/rabindratamang/vast/master/simid/Stairs_Nike.mp4]]></MediaFile>
+                            <InteractiveCreativeFile type="text/html" apiFramework="SIMID" variableDuration="false">https://interactiveadvertisingbureau.github.io/SIMID/examples/creatives/simid_overlay.html</InteractiveCreativeFile>
+                        </MediaFiles>
+                    </Linear>
+                    <UniversalAdId idRegistry="unknown">unknown</UniversalAdId>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
