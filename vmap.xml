@@ -1,0 +1,25 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+  <vmap:AdBreak timeOffset="00:00:30.000" breakType="linear" breakId="ads-1">
+    <vmap:AdSource id="ads-1" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://raw.githubusercontent.com/rabindratamang/vast/master/krish-1.xml ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+
+  <vmap:AdBreak timeOffset="00:00:60.000" breakType="linear" breakId="ads-2">
+    <vmap:AdSource id="ads-2" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://raw.githubusercontent.com/rabindratamang/vast/master/10sec.xml ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+
+  <vmap:AdBreak timeOffset="00:01:30.000" breakType="linear" breakId="ads-3">
+    <vmap:AdSource id="ads-3" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://raw.githubusercontent.com/rabindratamang/vast/master/5sec.xml ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+</vmap:VMAP>
